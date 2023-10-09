@@ -1,0 +1,9 @@
+/Users/saullopez/Documents/Projects/receiptProcessor/src/main/java/com/fetch/receiptProcessor/Application.java
+/Users/saullopez/Documents/Projects/receiptProcessor/src/main/java/com/fetch/receiptProcessor/entities/Receipt.java
+/Users/saullopez/Documents/Projects/receiptProcessor/src/main/java/com/fetch/receiptProcessor/logic/AwardedPointsInterface.java
+/Users/saullopez/Documents/Projects/receiptProcessor/src/main/java/com/fetch/receiptProcessor/dao/ReceiptDAO.java
+/Users/saullopez/Documents/Projects/receiptProcessor/src/main/java/com/fetch/receiptProcessor/logic/Points.java
+/Users/saullopez/Documents/Projects/receiptProcessor/src/main/java/com/fetch/receiptProcessor/endpoints/EndpointDefault.java
+/Users/saullopez/Documents/Projects/receiptProcessor/src/main/java/com/fetch/receiptProcessor/endpoints/EndpointReceipt.java
+/Users/saullopez/Documents/Projects/receiptProcessor/src/main/java/com/fetch/receiptProcessor/entities/Item.java
+/Users/saullopez/Documents/Projects/receiptProcessor/src/main/java/com/fetch/receiptProcessor/logic/AwardedPoints.java

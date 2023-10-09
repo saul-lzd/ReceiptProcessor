@@ -1,0 +1,9 @@
+com/fetch/receiptProcessor/logic/AwardedPoints.class
+com/fetch/receiptProcessor/Application.class
+com/fetch/receiptProcessor/entities/Receipt.class
+com/fetch/receiptProcessor/dao/ReceiptDAO.class
+com/fetch/receiptProcessor/logic/Points.class
+com/fetch/receiptProcessor/logic/AwardedPointsInterface.class
+com/fetch/receiptProcessor/endpoints/EndpointDefault.class
+com/fetch/receiptProcessor/entities/Item.class
+com/fetch/receiptProcessor/endpoints/EndpointReceipt.class
