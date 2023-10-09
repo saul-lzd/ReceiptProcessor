@@ -21,7 +21,6 @@ http://localhost:8080/
 - A message is displayed to notify app is running
 - Method: GET
 
-
 http://localhost:8080/receipts/process
 - Create a new "receipt" resource
 - Method: POST
@@ -37,6 +36,28 @@ http://localhost:8080/receipts
 - Endpointd provided to visualize all resources created
 - Method: GET
 - Response: List of receipts
+
+## Execute endpoints with CURL
+
+**Validate application is running**
+```
+curl --request GET http://localhost:8080/
+```
+
+**Get points for the given {id}**
+```
+curl --request GET http://localhost:8080/receipts/{id}/points
+```
+
+**Get all receipts**
+```
+curl --request GET http://localhost:8080/receipts
+```
+
+**Create a new receipt**
+```
+curl --header "Content-Type:application/json" --data '{json_entity}' --request POST http://localhost:8080/receipts/process
+```
 
 
 
