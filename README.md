@@ -12,8 +12,7 @@ $ ./mvnw spring-boot:run
 $ docker pull saullzd/myapp:1
 $ docker run -d -p 8080:8080 --name myContainer saullzd/myapp:1
 ```
-
-> _docker run_ command will create a container named "myContainer"
+> the docker image for this project is already uploaded to Docker hub
 
 ## Endpoints
 
@@ -33,9 +32,9 @@ http://localhost:8080/receipts/{id}/points
 - Response example {points : 109}
 
 http://localhost:8080/receipts
-- Endpointd provided to visualize all resources created
 - Method: GET
 - Response: List of receipts
+> _**Endpoint not requested but provided in order to visualize the resources that are being created**_
 
 ## Execute endpoints with CURL
 
