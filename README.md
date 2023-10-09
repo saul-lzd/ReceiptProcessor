@@ -12,7 +12,7 @@ $ ./mvnw spring-boot:run
 $ docker pull saullzd/myapp:1
 $ docker run -d -p 8080:8080 --name myContainer saullzd/myapp:1
 ```
-> the docker image for this project is already uploaded to Docker hub
+> the docker image for this project is already uploaded to Docker hub. https://hub.docker.com/r/saullzd/myapp
 
 ## Endpoints
 
